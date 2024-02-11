@@ -1,0 +1,2 @@
+# AniListDC
+ AniList Desktop Client
